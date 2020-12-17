@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Emanual20's github stats](https://github-readme-stats.vercel.app/api?username=Emanual20&theme=radical) 
+- 🔭 I’m currently learning in NKU, junior
+- 📫 How to reach me: https://emanual20.github.io/
+
+![Emanual20's github stats](https://github-readme-stats.vercel.app/api?username=Emanual20&theme=radical&hide=prs) 

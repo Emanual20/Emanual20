@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently learning in NKU, junior
-- 📫 How to reach me: https://emanual20.github.io/
+- 📫 How to reach me: [My blog](https://emanual20.github.io/)
+- U can check my CV in [link](https://github.com/Emanual20/Emanual20/blob/main/CV.pdf)
 
 ![Emanual20's github stats](https://github-readme-stats.vercel.app/api?username=Emanual20&theme=radical&hide=prs) 

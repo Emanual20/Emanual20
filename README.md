@@ -1,4 +1,4 @@
-### Hi there 👋
+### Abstract 👋
 
 <!--
 **Emanual20/Emanual20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+- 🔭 I’m currently learning in college of computer science of Nankai University(NKU), senior. will graduate in 2022.6
+- 🔭 I will begin my master trip in Gaoling School of Artificial Intelligence(GSAI) of Renmin University of China(RUC) in 2022.9
+- 📫 How to reach me: [My blog](https://emanual20.github.io/)
+- U can check my CV in [link](https://github.com/Emanual20/Emanual20/blob/main/CV.pdf)
+
+![Emanual20's github stats](https://github-readme-stats.vercel.app/api?username=Emanual20&theme=radical&hide=prs) 

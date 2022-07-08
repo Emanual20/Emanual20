@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-- 🔭 I’m currently learning in college of computer science of Nankai University(NKU), senior. will graduate in 2022.6
-- 🔭 I will begin my master trip in Gaoling School of Artificial Intelligence(GSAI) of Renmin University of China(RUC) in 2022.9
+- 🔭 I’m currently a first year master student in Gaoling School of Artificial Intelligence(GSAI) of Renmin University of China(RUC).
+- 🔭 Before that, I earned my bachelor's degree from Nankai University, China.
 - 📫 How to reach me: [My blog, last updated 2021-08-02](https://emanual20.github.io/OriginBlog)
 - 📫 How to reach some information related to nkucs: [NKUCS.ICU](https://nkucs.icu)
 - U can check my CV in [link](https://github.com/Emanual20/Emanual20/blob/main/CV.pdf)

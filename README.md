@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a first year master student in Gaoling School of Artificial Intelligence(GSAI) of Renmin University of China(RUC).
 - 🔭 Before that, I obtained my computer science bachelor's degree from Nankai University, China.
-- 📫 Reach some information about nkucs: [NKUCS.ICU](https://nkucs.icu)
+- 📫 Reach some information about nkucs: [NKUCS.ICU website](https://nkucs.icu), [our development organization](https://github.com/NKUCS-ICU)
 - [My CV(till 2022.10)](https://github.com/Emanual20/Emanual20/blob/main/CV.pdf)
+
+Please feel free to [contact me](mailto:emanual20@foxmail.com) if you are interested in my projects!
 
 <!-- ### Q&A 👋
 

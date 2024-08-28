@@ -8,5 +8,5 @@
 
 - 📖 \[2024/03/26\] Our [Paper](https://arxiv.org/abs/2402.16358) "Yulan-GARDEN: An Integrated Data Processing Framework for Pretraining Foundation Models" [\[Code\]](https://github.com/Emanual20/Yulan-GARDEN) has been accepted by the Demo Track of SIGIR2024!
 
-- [My CV(till 2024.7)](https://github.com/Emanual20/Emanual20/blob/main/CV.pdf), [My Information Website (Intro, Pub, Awards)](https://emanual20.github.io)
+- [My CV(till 2024.7)](https://github.com/Emanual20/Emanual20/blob/main/CV.pdf), [My Homepage (Intro, Pub, Awards)](https://emanual20.github.io)
 - 📫 Reach some information about nkucs: [NKUCS.ICU website](https://nkucs.icu), [our development organization](https://github.com/NKUCS-ICU)
